@@ -48,6 +48,7 @@ This was made as a side project, so the engine is currently only in Spanish. A t
 ```python -m http.server -b 127.0.0.1 80```
 4. Go to [localhost](127.0.0.1) and you will see your web.
 ## Documentation
+Check the documentation on the [Github Wiki](https://github.com/Omi036/Physics_Mengine/wiki)
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.    
 
