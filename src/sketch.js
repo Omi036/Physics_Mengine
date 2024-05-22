@@ -1,5 +1,3 @@
-// import "../modules/Physics"
-
 const canvasWidth = 1200
 const canvasHeight = 600
 
@@ -9,6 +7,7 @@ function setup() {
   colorMode(HSB);
 }
 
+// Example file
 function draw() {
   clear()
   strokeWeight(10)
