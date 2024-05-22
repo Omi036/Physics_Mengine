@@ -1,13 +1,14 @@
 const canvasWidth = 1200
 const canvasHeight = 600
 
+
 function setup() {
   createCanvas(canvasWidth,canvasHeight)
   background(27)
   colorMode(HSB);
 }
 
-// Example file
+// See more on https://p5js.org/reference/
 function draw() {
   clear()
   strokeWeight(10)
